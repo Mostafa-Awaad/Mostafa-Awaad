@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3 align="center">
   Welcome to Mostafa Kamal's profile!

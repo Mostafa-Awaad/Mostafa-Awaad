@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20graduate;Always%20Trying%20To%20Survive!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Fresh Graduate B.S. Mechatronics Engineering
+- 🏢 I'm a Fresh Graduate with B.S. in Mechatronics Engineering
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 
 ### Connect with Me :

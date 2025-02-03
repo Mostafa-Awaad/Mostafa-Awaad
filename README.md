@@ -1,27 +1,19 @@
+<img width="250" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 <div align="center">
   
-  <h3 align="center">
+  <h3>
     Welcome to Mostafa Kamal's Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
   
-  <p align="center">
+  <p>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20Graduate;Always%20Trying%20To%20Survive!!&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=22">
   </p>
 
-  <table>
-    <tr>
-      <td>
-        <p align="center">
-          <img width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-        </p>
-      </td>
-    </tr>
-  </table>
-
 </div>
 
----
+
 
 ### 👨‍💻 About Me
 - 🎓 Fresh Graduate with a **B.S. in Mechatronics Engineering**  

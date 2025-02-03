@@ -1,4 +1,8 @@
-<img width="250" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+     align="right" width="250" style="max-width: 12%; min-width: 90px; height: auto; float: right;">
+
 
 <div align="center">
   

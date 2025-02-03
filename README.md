@@ -1,23 +1,29 @@
+<div align="center">
 
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Welcome to Mostafa Kamal's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+        <p>
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20Graduate;Always%20Trying%20To%20Survive!!&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=22">
+        </p>
+      </td>
+      <td>
+        <img width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+      </td>
+    </tr>
+  </table>
 
-
-<h3 align="center">
-  Welcome to Mostafa Kamal's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg --> 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20graduate;Always%20Trying%20To%20Survive!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-<img width="250" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</div>
 
 ### 👨‍💻 About Me
 - 🎓 Fresh Graduate with a **B.S. in Mechatronics Engineering**  
 - 💡 Passionate about **Mobile Development, Automotive Embedded Systems, and AI** 
 - 📚 Constantly **learning and exploring** new technologies
 - 🚀 Always looking for **challenging projects** to expand my skillset
+
+
+
 ---
 
 ### 🚀 Tech Stack

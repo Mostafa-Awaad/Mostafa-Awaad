@@ -21,6 +21,8 @@
 
 </div>
 
+---
+
 ### 👨‍💻 About Me
 - 🎓 Fresh Graduate with a **B.S. in Mechatronics Engineering**  
 - 💡 Passionate about **Mobile Development, Automotive Embedded Systems, and AI** 

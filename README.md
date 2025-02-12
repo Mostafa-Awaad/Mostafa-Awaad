@@ -59,3 +59,21 @@
 <br>
 <br>
 <br>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎯 [Vehicle monitoring system app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
+- **Description:** Mobile application that provides an interactive and visually appealing dashboard that streams various car signals in real-time using dynamic gauges for each signal.  
+- **Tech Stack:** Dart, Flutter, Python, Supabase, PostgreSQL, CAN DBC.
+- **Features:**  
+     - Displays real-time vehicle signals on an intuitive dashboard.
+     - Streaming multiple car signals is handled using Dart Isolates  
+     - Processes a DBC (Database CAN) file to decode CAN messages.
+     - Using Supbase which acts as the central data repository for storing parsed vehicle signal information.
+
+
+---
+
+

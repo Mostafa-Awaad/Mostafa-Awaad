@@ -80,13 +80,18 @@
 - **Description:** 
 - **Tech Stack:**  
 - **Features:**  
-     - 
+     - Click Start quiz.
+     - The application will show each question individually.
+     - After the question answered, the results screen appears.
+     - In results screen, each question is indicated whether if it is answered correctly or not.
+     - In each question in the results screen, the correct answer is compared with the submitted answer.
+     - At the end, there is a button to restart the quiz.
 
 ---
 
 ###  [Quiz mobile app](https://github.com/Mostafa-Awaad/Quiz_App)  
-- **Description:** 
-- **Tech Stack:**  
+- **Description:** A quiz application, in which we could answer flutter-related questions.
+- **Tech Stack:**  Dart, Flutter.
 - **Features:**  
      - 
 
@@ -131,10 +136,11 @@
 ---
 
 ###  [My own implementation for string.h library](https://github.com/Mostafa-Awaad/My_Custom-String.h-Library)  
-- **Description:** 
-- **Tech Stack:**  
+- **Description:** This project is a custom implementation of the standard C library string.h.
+- **Tech Stack:**  C language.
 - **Features:**  
-     - 
+     - Implemented to provide an in-depth understanding of memory and string manipulation in C.
+     - The library replicates core functions such as memory copying, comparison, and various string operations from scratch.
 
 ---
 
@@ -143,11 +149,11 @@
 - **Tech Stack:**  Python, TensorFlow, Keras, Matplotlib, MNE, scikit-learn, MATLAB Engine API, SciPy
 - **Features:**  
      - We developed a machine learning model, in which we used
-          - Machine learning frameworks: (TensorFlow and Keras)
-          - PythonVisualization Libraries: (Matplotlib and MNE)
-          - Pandas Library for data manipulation
+          - Machine learning frameworks: (TensorFlow and Keras).
+          - PythonVisualization Libraries: (Matplotlib and MNE).
+          - Pandas Library for data manipulation.
           - Scikit-learn library for data classification anf statistical modelling.
-          - MATLAB Engine API for Python
+          - MATLAB Engine API for Python.
           - SciPy Library for scientific computing and technical computing to classify patients’ intentions and make predictions for the servo motor of the exoskeleton arm that we designed to move based on offlinedataset.
      - We then made the model trained.
      - Using the trained model, we were able to record online dataset using UNICORN HYBRID BLACK headset and classify the patients’ intentions to make predictions for the intended motion using Lab Streaming Layer

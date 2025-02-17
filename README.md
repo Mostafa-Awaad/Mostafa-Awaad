@@ -80,12 +80,7 @@
 - **Description:** 
 - **Tech Stack:**  
 - **Features:**  
-     - Click Start quiz.
-     - The application will show each question individually.
-     - After the question answered, the results screen appears.
-     - In results screen, each question is indicated whether if it is answered correctly or not.
-     - In each question in the results screen, the correct answer is compared with the submitted answer.
-     - At the end, there is a button to restart the quiz.
+     - 
 
 ---
 
@@ -93,7 +88,12 @@
 - **Description:** A quiz application, in which we could answer flutter-related questions.
 - **Tech Stack:**  Dart, Flutter.
 - **Features:**  
-     - 
+     - Click Start quiz.
+     - The application will show each question individually.
+     - After the question answered, the results screen appears.
+     - In results screen, each question is indicated whether if it is answered correctly or not.
+     - In each question in the results screen, the correct answer is compared with the submitted answer.
+     - At the end, there is a button to restart the quiz.
 
 ---
 

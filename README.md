@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🎯 [Vehicle monitoring system app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
+###  [Vehicle monitoring system app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
 - **Description:** Mobile application that provides an interactive and visually appealing dashboard that streams various car signals in real-time using dynamic gauges for each signal.  
 - **Tech Stack:** Dart, Flutter, Python, Supabase, PostgreSQL, CAN DBC.
 - **Features:**  
@@ -76,4 +76,68 @@
 
 ---
 
+###  [Expense tracker mobile app](https://github.com/Mostafa-Awaad/EXpense_Tracker_App)  
+- **Description:** 
+- **Tech Stack:**  
+- **Features:**  
+     - 
 
+---
+
+###  [Quiz mobile app](https://github.com/Mostafa-Awaad/Quiz_App)  
+- **Description:** 
+- **Tech Stack:**  
+- **Features:**  
+     - 
+
+---
+
+###  [Tkinter-based vehicle monitoring application](https://github.com/Mostafa-Awaad/CANSocket_Implementation/tree/main?tab=readme-ov-file#tkinter-based-vehicle-monitoring-application)  
+- **Description:** The Tkinter-based vehicle monitoring application is a vehicle monitoring solution designed using Python for the user interface and for backend data processing. It provides an interactive dashboard that streams various car signals using dynamic gauges for each signal. 
+- **Tech Stack:**  Python, Flask, PostgreSQL, CAN DBC
+- **Features:**  
+     - Fetches vehicle speed, engine coolant temp, battery SOH, and other data from the Flask server.
+     - Updates the GUI asynchronously. 
+     - Updates speed, engine coolant temp, battery SOH, and other signals and their descriptive images based on fetched data.
+     - Processes a DBC (Database CAN) file to decode CAN messages.
+     - Converts the DBC data into an ASC (ASCII log) file based on generated random data (100 values for each signal).
+
+
+---
+
+###  [CAN Socket Implementation with Scapy and python-can](https://github.com/Mostafa-Awaad/CANSocket_Implementation/tree/main?tab=readme-ov-file#can-socket-implementation-with-scapy-and-python-can)  
+- **Description:** integrates Scapy with python-can to simulate a virtual CAN (Controller Area Network) environment. The script demonstrates how to create virtual CAN interfaces, sniff CAN FD (Flexible Data-rate) frames, and send CAN FD packets with extended identifiers using virtual CAN sockets.
+- **Tech Stack:**  Python, CAN FD, CAN-Socket, Linux
+- **Features:**  
+     - Virtual CAN Interface Setup: Automatically creates virtual CAN interfaces (vcan0 and vcan1).
+     - CAN FD Frame Sniffing: Utilizes Scapy's AsyncSniffer to capture CAN FD frames with data lengths greater than 8 bytes.
+     - CAN FD Frame Sending: Sends a CAN FD extended frame from vcan0.
+     - Multithreading: Runs sniffing and sending processes in parallel using Python's threading module.
+
+
+---
+
+
+###  [Software Testing project for courses reservation system](https://github.com/Mostafa-Awaad/Software_Testing_Final_Project)  
+- **Description:** 
+- **Tech Stack:**  
+- **Features:**  
+     - 
+
+---
+
+###  [My own implementation for string.h library](https://github.com/Mostafa-Awaad/My_Custom-String.h-Library)  
+- **Description:** 
+- **Tech Stack:**  
+- **Features:**  
+     - 
+
+---
+
+###  [Graduation project](https://github.com/Mostafa-Awaad/Graduation-Project)  
+- **Description:** 
+- **Tech Stack:**  
+- **Features:**  
+     - 
+
+---

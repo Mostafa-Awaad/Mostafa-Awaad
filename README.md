@@ -119,10 +119,14 @@
 
 
 ###  [Software Testing project for courses reservation system](https://github.com/Mostafa-Awaad/Software_Testing_Final_Project)  
-- **Description:** 
-- **Tech Stack:**  
+- **Description:** Testing courses reservation software using CUnit Framework.
+- **Tech Stack:**  C, CUnit framework.
 - **Features:**  
-     - 
+     - Tested EDGES Reservation software (C language) using CUnit Framework, applying diploma techniques and standards.
+     - Delivered updated source code with test cases and suites.
+     - Prepared Test Case Report detailing test conditions, steps, inputs, expected vs. actual outputs, prerequisites, and applied techniques.
+     - Documented bugs in a Bug Report specifying failed cases, expected vs. actual outputs, reproduction steps, root causes, and suggested fixes.
+     - Compiled Test Completion Report, summarizing executed/failed test cases and coverage achieved (MC/DC, branch, statement, state transition, boundary value analysis).
 
 ---
 
@@ -135,9 +139,18 @@
 ---
 
 ###  [Graduation project](https://github.com/Mostafa-Awaad/Graduation-Project)  
-- **Description:** 
-- **Tech Stack:**  
+- **Description:** EEG-based exoskeleton arm for rehabilitation.
+- **Tech Stack:**  Python, TensorFlow, Keras, Matplotlib, MNE, scikit-learn, MATLAB Engine API, SciPy
 - **Features:**  
-     - 
+     - We developed a machine learning model, in which we used
+          - Machine learning frameworks: (TensorFlow and Keras)
+          - PythonVisualization Libraries: (Matplotlib and MNE)
+          - Pandas Library for data manipulation
+          - Scikit-learn library for data classification anf statistical modelling.
+          - MATLAB Engine API for Python
+          - SciPy Library for scientific computing and technical computing to classify patients’ intentions and make predictions for the servo motor of the exoskeleton arm that we designed to move based on offlinedataset.
+     - We then made the model trained.
+     - Using the trained model, we were able to record online dataset using UNICORN HYBRID BLACK headset and classify the patients’ intentions to make predictions for the intended motion using Lab Streaming Layer
+communication protocol and mapping these intentions to near real-time movement for the exoskeleton arm.
 
 ---

@@ -69,7 +69,8 @@
 - **Tech Stack:** Dart, Flutter, Python, Supabase, PostgreSQL, CAN DBC.
 - **Features:**  
      - Displays real-time vehicle signals on an intuitive dashboard.
-     - Streaming multiple car signals is handled using Dart Isolates  
+     - Streaming multiple car signals is handled using Dart Isolates.
+     - Changes the signal value display color in case of exceeding the limit as an alert.  
      - Processes a DBC (Database CAN) file to decode CAN messages.
      - Using Supbase which acts as the central data repository for storing parsed vehicle signal information.
 
@@ -77,10 +78,13 @@
 ---
 
 ###  [Expense tracker mobile app](https://github.com/Mostafa-Awaad/EXpense_Tracker_App)  
-- **Description:** 
-- **Tech Stack:**  
+- **Description:** Mobile application that allows the user to register their expenses by allowing them to choose the expense category, date of expense, amount, and title. It also allows the user to view their expenses in both list and chart formats.
+- **Tech Stack:**   Dart, Flutter.
 - **Features:**  
-     - 
+     - Displays the expenses in both chart and list views.
+     - Enables the user to add a new expenses with the ability to enter its title, amount, and choosing its catgory and date of expense.
+     - Enables the user to delete expenses.
+     - Applys concepts of responsivity and adaptivity.
 
 ---
 

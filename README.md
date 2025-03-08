@@ -163,3 +163,6 @@
 communication protocol and mapping these intentions to near real-time movement for the exoskeleton arm.
 
 ---
+
+## 📜 Certifications:
+- CTFL4- ISTQB® Certified Tester Foundation Level v4

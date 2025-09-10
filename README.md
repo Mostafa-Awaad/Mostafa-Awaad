@@ -166,3 +166,4 @@ communication protocol and mapping these intentions to near real-time movement f
 
 ## 📜 Certifications:
 - CTFL4- ISTQB® Certified Tester Foundation Level v4
+- Supervised Machine Learning: Regression and Classification "authorized by DeepLearning and Stanford University and offered through Coursera"

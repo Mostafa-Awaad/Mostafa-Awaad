@@ -1,70 +1,65 @@
 
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-     align="right" width="200" style="max-width: 12%; min-width: 90px; height: auto; float: right;">
-
+     align="right" width="200" 
+     style="max-width: 18%; min-width: 100px; height: auto;">
 
 <div align="center">
-  
-  <h3>
-    Welcome to Mostafa Kamal's Profile! 
+
+  <h2>
+    Welcome to Mostafa Kamal's Profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h3>
-  
+  </h2>
+
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20Graduate;Always%20Trying%20To%20Survive!!&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut%20%F0%9F%91%8B;Je%20suis%20Mostafa%20Kamal;Robotics%20%26%20Autonomous%20Systems;C%2B%2B%20%7C%20Python%20%7C%20ROS%202%20%7C%20AI;Building%20robots%20that%20can%20perceive%2C%20plan%20%26%20act&font=Fira%20Code&center=true&width=700&height=80&color=F75C7E&vCenter=true&size=20&pause=1000">
   </p>
 
 </div>
 
-
+---
 
 ### 👨‍💻 About Me
-- 🎓 Fresh Graduate with a **B.S. in Mechatronics Engineering**  
-- 💡 Passionate about **Mobile Development, Automotive Embedded Systems, and AI** 
-- 📚 Constantly **learning and exploring** new technologies
-- 🚀 Always looking for **challenging projects** to expand my skillset
 
-
+- 🎓 **M.Sc. student in Robotics & Autonomous Systems**
+- 🤖 Interested in **robot perception, planning, control, and AI**
+- 🚀 Developing projects around **autonomous robots and intelligent systems**
+- 📚 Continuously learning through **hands-on projects and experimentation**
 
 ---
 
-### 🚀 Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+### 🚀 Robotics & AI Tech Stack
+
+#### Programming
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8000?style=flat&logo=mathworks&logoColor=white)&nbsp;
+
+#### Robotics
+![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ros&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![CUnit](https://img.shields.io/badge/-CUnit-072E43?style=flat)&nbsp;
 
+#### AI / Data
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ---
-### 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Awaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
-<br>
-<a href="https://komarev.com/ghpvc/?username=Mostafa-Awaad&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Mostafa-Awaad&style=for-the-badge">
-</a>
+### 📊 GitHub
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Awaad&style=for-the-badge" alt="Profile Views">
+</p>
 ---
 
 ## 🚀 Featured Projects  
 
-###  [Vehicle monitoring system app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
+###  [Vehicle real-time diagnostics app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
 - **Description:** Mobile application that provides an interactive and visually appealing dashboard that streams various car signals in real-time using dynamic gauges for each signal.  
 - **Tech Stack:** Dart, Flutter, Python, Supabase, PostgreSQL, CAN DBC.
 - **Features:**  
@@ -75,8 +70,8 @@
      - Using Supbase which acts as the central data repository for storing parsed vehicle signal information.
 
 
----
 
+<!--
 ###  [Expense tracker mobile app](https://github.com/Mostafa-Awaad/EXpense_Tracker_App)  
 - **Description:** Mobile application that allows the user to register their expenses by allowing them to choose the expense category, date of expense, amount, and title. It also allows the user to view their expenses in both list and chart formats.
 - **Tech Stack:**   Dart, Flutter.
@@ -85,9 +80,10 @@
      - Enables the user to add a new expenses with the ability to enter its title, amount, and choosing its catgory and date of expense.
      - Enables the user to delete expenses.
      - Applys concepts of responsivity and adaptivity.
-
+       
+-->
 ---
-
+<!--
 ###  [Quiz mobile app](https://github.com/Mostafa-Awaad/Quiz_App)  
 - **Description:** A quiz application, in which we could answer flutter-related questions.
 - **Tech Stack:**  Dart, Flutter.
@@ -97,8 +93,8 @@
      - Quiz restart functionality to practice and improve.
      - Dynamic UI updates based on user interactions.
      - Randomized answer order for a better quiz experience.
+-->
 
----
 
 ###  [Tkinter-based vehicle monitoring application](https://github.com/Mostafa-Awaad/CANSocket_Implementation/tree/main?tab=readme-ov-file#tkinter-based-vehicle-monitoring-application)  
 - **Description:** The Tkinter-based vehicle monitoring application is a vehicle monitoring solution designed using Python for the user interface and for backend data processing. It provides an interactive dashboard that streams various car signals using dynamic gauges for each signal. 

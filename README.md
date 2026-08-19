@@ -1,30 +1,14 @@
-
-
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-     align="right" width="200" 
-     style="max-width: 18%; min-width: 100px; height: auto;">
-
-<div align="center">
-
-  <h2>
-    Welcome to Mostafa Kamal's Profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h2>
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut%20%F0%9F%91%8B;Je%20suis%20Mostafa%20Kamal;Robotics%20%26%20Autonomous%20Systems;C%2B%2B%20%7C%20Python%20%7C%20ROS%202%20%7C%20AI;Building%20robots%20that%20can%20perceive%2C%20plan%20%26%20act&font=Fira%20Code&center=true&width=700&height=80&color=F75C7E&vCenter=true&size=20&pause=1000">
-  </p>
-
-</div>
+<div align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="180" alt="Robotics animation" > </div> <h2 align="center"> Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there%20%F0%9F%91%8B;Robotics%20%26%20Autonomous%20Systems%20Engineer;Perception%20%7C%20Sensor%20Fusion%20%7C%20Embedded%20Systems;C%2B%2B%20%7C%20Python%20%7C%20ROS%202%20%7C%20CAN;Building%20robots%20that%20perceive%2C%20plan%20%26%20act&font=Fira%20Code&center=true&width=700&height=80&color=F75C7E&vCenter=true&size=20&pause=1000"> </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **M.Sc. student in Robotics & Autonomous Systems**
-- 🤖 Interested in **robot perception, planning, control, and AI**
-- 🚀 Developing projects around **autonomous robots and intelligent systems**
-- 📚 Continuously learning through **hands-on projects and experimentation**
+- 🎓 **Incoming M.Sc. student**
+- 🤖 Interested in **robot perception, sensor fusion, and autonomous decision-making**
+- 🔧 Background in **embedded & real-time systems: CAN bus telemetry, DBC decoding, STM32 firmware**
+- 🚀 Building projects across **ROS 2, sensor fusion, and autonomous vehicle perception**
+- 📚 Continuously learning through hands-on **robotics and autonomous systems projects**
 
 ---
 
@@ -36,12 +20,18 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8000?style=flat&logo=mathworks&logoColor=white)&nbsp;
 
-#### Robotics
+#### Robotics & Autonomous Systems
 ![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ros&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+
+#### Embedded & Automotive
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 
 #### AI / Data
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)&nbsp;

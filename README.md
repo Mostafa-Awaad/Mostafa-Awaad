@@ -30,8 +30,8 @@
 
 #### Embedded & Automotive
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![CAN](https://img.shields.io/badge/-CAN%20Bus-333333?style=flat&logoColor=white)&nbsp;
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)&nbsp;
 
 #### AI / Data
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)&nbsp;

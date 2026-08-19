@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="180" alt="Robotics animation" > </div> <h2 align="center"> Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there%20%F0%9F%91%8B;Robotics%20%26%20Autonomous%20Systems%20Engineer;Perception%20%7C%20Sensor%20Fusion%20%7C%20Embedded%20Systems;C%2B%2B%20%7C%20Python%20%7C%20ROS%202%20%7C%20CAN;Building%20robots%20that%20perceive%2C%20plan%20%26%20act&font=Fira%20Code&center=true&width=700&height=80&color=F75C7E&vCenter=true&size=20&pause=1000"> </p>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> </div> <h2 align="center"> Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there%20%F0%9F%91%8B;Robotics%20%26%20Autonomous%20Systems%20Engineer;Perception%20%7C%20Sensor%20Fusion%20%7C%20Embedded%20Systems;C%2B%2B%20%7C%20Python%20%7C%20ROS%202%20%7C%20CAN;Building%20robots%20that%20perceive%2C%20plan%20%26%20act&font=Fira%20Code&center=true&width=700&height=80&color=F75C7E&vCenter=true&size=20&pause=1000"> </p>
 
 ---
 
@@ -45,10 +45,27 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Awaad&style=for-the-badge" alt="Profile Views">
 </p>
+
 ---
 
 ## 🚀 Featured Projects  
 
+###  [B.Sc. Graduation project](https://github.com/Mostafa-Awaad/Graduation-Project)  
+- **Description:** EEG-based exoskeleton arm for rehabilitation.
+- **Tech Stack:**  Python, TensorFlow, Keras, Matplotlib, MNE, scikit-learn, MATLAB Engine API, SciPy
+- **Features:**  
+     - We developed a machine learning model, in which we used
+          - Machine learning frameworks: (TensorFlow and Keras).
+          - PythonVisualization Libraries: (Matplotlib and MNE).
+          - Pandas Library for data manipulation.
+          - Scikit-learn library for data classification anf statistical modelling.
+          - MATLAB Engine API for Python.
+          - SciPy Library for scientific computing and technical computing to classify patients’ intentions and make predictions for the servo motor of the exoskeleton arm that we designed to move based on offlinedataset.
+     - We then made the model trained.
+     - Using the trained model, we were able to record online dataset using UNICORN HYBRID BLACK headset and classify the patients’ intentions to make predictions for the intended motion using Lab Streaming Layer
+communication protocol and mapping these intentions to near real-time movement for the exoskeleton arm.
+
+---
 ###  [Vehicle real-time diagnostics app](https://github.com/Mostafa-Awaad/car_diagnostic_application)  
 - **Description:** Mobile application that provides an interactive and visually appealing dashboard that streams various car signals in real-time using dynamic gauges for each signal.  
 - **Tech Stack:** Dart, Flutter, Python, Supabase, PostgreSQL, CAN DBC.
@@ -133,22 +150,7 @@
 
 ---
 
-###  [Graduation project](https://github.com/Mostafa-Awaad/Graduation-Project)  
-- **Description:** EEG-based exoskeleton arm for rehabilitation.
-- **Tech Stack:**  Python, TensorFlow, Keras, Matplotlib, MNE, scikit-learn, MATLAB Engine API, SciPy
-- **Features:**  
-     - We developed a machine learning model, in which we used
-          - Machine learning frameworks: (TensorFlow and Keras).
-          - PythonVisualization Libraries: (Matplotlib and MNE).
-          - Pandas Library for data manipulation.
-          - Scikit-learn library for data classification anf statistical modelling.
-          - MATLAB Engine API for Python.
-          - SciPy Library for scientific computing and technical computing to classify patients’ intentions and make predictions for the servo motor of the exoskeleton arm that we designed to move based on offlinedataset.
-     - We then made the model trained.
-     - Using the trained model, we were able to record online dataset using UNICORN HYBRID BLACK headset and classify the patients’ intentions to make predictions for the intended motion using Lab Streaming Layer
-communication protocol and mapping these intentions to near real-time movement for the exoskeleton arm.
 
----
 
 ## 📜 Certifications:
 - CTFL4- ISTQB® Certified Tester Foundation Level v4
